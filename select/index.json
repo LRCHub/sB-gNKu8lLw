@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハンコウ予告／可憐なアイボリー【Hanon×Kotoha】",
+  "base_artist": "Hanon",
+  "createdAt": "2025-12-12T18:26:10.694462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハンコウ予告",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_ハンコウ予告_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハンコウ予告",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_ハンコウ予告_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハンコウ予告",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/03_ハンコウ予告_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハンコウ予告",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_ハンコウ予告_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハンコウ予告",
+      "artist": "CHiCO; HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_ハンコウ予告_CHiCO;_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハンコウ予告 (Cover)",
+      "artist": "Hanon×Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_ハンコウ予告_(Cover)_Hanon×Kotoha.txt"
+    }
+  ]
+}
